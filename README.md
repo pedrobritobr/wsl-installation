@@ -14,6 +14,14 @@ Instalar ZSH, OhMyZsh
 
 ZSH_THEME="jonathan"
 
+plugins=(
+  git
+  zsh-history-substring-search
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+)
+
+
 Instalar NODE
  Não usar o vscode
     
