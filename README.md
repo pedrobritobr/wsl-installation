@@ -38,4 +38,11 @@ GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost';
 Update Python
 
     https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux
+    
+Configurando GIT
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  
+  https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/
+    
 
