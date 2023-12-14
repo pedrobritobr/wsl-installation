@@ -23,7 +23,7 @@ plugins=(
 
 
 Instalar NODE
- Não usar o vscode
+ Não usar no vscode
     
     https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
 
@@ -44,5 +44,8 @@ Configurando GIT
   git config --global user.name "Your Name"
   
   https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/
-    
+
+
+Cisco AnyConnect
+  https://dev.to/tiim/fix-network-connectivity-in-wsl2-with-cisco-anyconnect-vpn-4bhk
 
