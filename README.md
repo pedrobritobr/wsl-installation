@@ -10,7 +10,7 @@ Iniciar ubuntu
 
 Instalar ZSH, OhMyZsh
     
-    https://marcelosena.com/como-instalar-o-shell-zsh-oh-my-zsh-tema-e-plugins/
+    https://dev.to/henriquemsimoes/instalando-e-configurando-zsh-e-oh-my-zsh-4bem
 
 ZSH_THEME="jonathan"
 
